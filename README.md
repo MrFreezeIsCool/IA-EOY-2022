@@ -5,7 +5,7 @@
 
 - Instructions for installation:
 - 0: Login/signup to the Alpaca API here: < https://alpaca.markets >
-- 1: Generate/view your API keys in the bottom left
+- 1: Generate/view your API keys on the right side
 - 2: Download TimeTesting.py and open in your favorite Python IDE
 - 3: Copy/paste your personal API keys in the correct places at the top of the file
 - 4: Save and run! 
